@@ -1,2 +1,1 @@
-This is a new file.
-Hello from main branch - updated on main.
+Hello from main and feature branches - merged successfully.
